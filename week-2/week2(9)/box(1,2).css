@@ -1,0 +1,10 @@
+div {
+    width: 200px;
+    height: 150px;
+  }
+  div {
+    padding: 20px; /* Adds 20px padding on all sides */
+    /* Or */
+    padding: 10px 20px 30px 40px; /* Top, right, bottom, left */
+  }
+  

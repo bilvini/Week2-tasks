@@ -1,0 +1,16 @@
+p {
+    font-weight: bold;
+  }
+  div {
+    text-align: center;
+  }
+  a {
+    text-decoration: none;
+  }
+  h1 {
+    text-transform: uppercase;
+  }
+  p {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  

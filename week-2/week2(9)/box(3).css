@@ -1,0 +1,14 @@
+div {
+    border: 2px solid blue;
+  }
+  div {
+    margin: 20px; /* Adds 20px margin on all sides */
+    /* Or */
+    margin-top: 10px; /* Adds 10px margin at the top */
+  }
+  div {
+    box-sizing: border-box;
+  }
+  button {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
